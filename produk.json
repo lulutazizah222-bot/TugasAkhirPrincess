@@ -1,0 +1,122 @@
+[
+    {
+        "product_id": 1,
+        "nama_produk": "Produk_1",
+        "harga": 4924948,
+        "rating": 1.8
+    },
+    {
+        "product_id": 2,
+        "nama_produk": "Produk_2",
+        "harga": 2857949,
+        "rating": 2.0
+    },
+    {
+        "product_id": 3,
+        "nama_produk": "Produk_3",
+        "harga": 3407193,
+        "rating": 4.9
+    },
+    {
+        "product_id": 4,
+        "nama_produk": "Produk_4",
+        "harga": 4939582,
+        "rating": 1.6
+    },
+    {
+        "product_id": 5,
+        "nama_produk": "Produk_5",
+        "harga": 2976043,
+        "rating": 1.5
+    },
+    {
+        "product_id": 6,
+        "nama_produk": "Produk_6",
+        "harga": 1763286,
+        "rating": 4.2
+    },
+    {
+        "product_id": 7,
+        "nama_produk": "Produk_7",
+        "harga": 826800,
+        "rating": 4.5
+    },
+    {
+        "product_id": 8,
+        "nama_produk": "Produk_8",
+        "harga": 567430,
+        "rating": 3.4
+    },
+    {
+        "product_id": 9,
+        "nama_produk": "Produk_9",
+        "harga": 3915224,
+        "rating": 4.0
+    },
+    {
+        "product_id": 10,
+        "nama_produk": "Produk_10",
+        "harga": 2899882,
+        "rating": 2.3
+    },
+    {
+        "product_id": 11,
+        "nama_produk": "Produk_11",
+        "harga": 1966214,
+        "rating": 4.8
+    },
+    {
+        "product_id": 12,
+        "nama_produk": "Produk_12",
+        "harga": 3774354,
+        "rating": 3.5
+    },
+    {
+        "product_id": 13,
+        "nama_produk": "Produk_13",
+        "harga": 2973426,
+        "rating": 3.3
+    },
+    {
+        "product_id": 14,
+        "nama_produk": "Produk_14",
+        "harga": 3404375,
+        "rating": 2.1
+    },
+    {
+        "product_id": 15,
+        "nama_produk": "Produk_15",
+        "harga": 3198057,
+        "rating": 3.9
+    },
+    {
+        "product_id": 16,
+        "nama_produk": "Produk_16",
+        "harga": 2633512,
+        "rating": 2.5
+    },
+    {
+        "product_id": 17,
+        "nama_produk": "Produk_17",
+        "harga": 4419582,
+        "rating": 5.0
+    },
+    {
+        "product_id": 18,
+        "nama_produk": "Produk_18",
+        "harga": 2135146,
+        "rating": 3.6
+    },
+    {
+        "product_id": 19,
+        "nama_produk": "Produk_19",
+        "harga": 4710319,
+        "rating": 2.9
+    },
+    {
+        "product_id": 20,
+        "nama_produk": "Produk_20",
+        "harga": 2223122,
+        "rating": 1.5
+    }
+]

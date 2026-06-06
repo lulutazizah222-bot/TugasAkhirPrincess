@@ -1,0 +1,602 @@
+[
+    {
+        "product_id": "FSH-00000",
+        "nama_produk": "Kulot Highwaist-870",
+        "harga": 25000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00001",
+        "nama_produk": "Kulot Highwaist-887",
+        "harga": 83000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00002",
+        "nama_produk": "Kulot Highwaist-869",
+        "harga": 56000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00003",
+        "nama_produk": "Gamis Brokat-976",
+        "harga": 42000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00004",
+        "nama_produk": "Kulot Highwaist-723",
+        "harga": 64000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00005",
+        "nama_produk": "Tunik Rayon-980",
+        "harga": 65000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00006",
+        "nama_produk": "Gamis Brokat-446",
+        "harga": 84000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00007",
+        "nama_produk": "Cardigan Rajut-423",
+        "harga": 75000,
+        "rating": 4.6
+    },
+    {
+        "product_id": "FSH-00008",
+        "nama_produk": "Gamis Brokat-756",
+        "harga": 23000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00009",
+        "nama_produk": "Tunik Rayon-655",
+        "harga": 52000,
+        "rating": 4.4
+    },
+    {
+        "product_id": "FSH-00010",
+        "nama_produk": "Rok Plisket-431",
+        "harga": 45000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00011",
+        "nama_produk": "Tunik Rayon-422",
+        "harga": 46000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00012",
+        "nama_produk": "Tunik Rayon-388",
+        "harga": 29000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00013",
+        "nama_produk": "Blouse Korea-855",
+        "harga": 55000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00014",
+        "nama_produk": "Cardigan Rajut-108",
+        "harga": 56000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00015",
+        "nama_produk": "Kulot Highwaist-874",
+        "harga": 5000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00016",
+        "nama_produk": "Tunik Rayon-875",
+        "harga": 95000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00017",
+        "nama_produk": "Tunik Rayon-689",
+        "harga": 51000,
+        "rating": 4.1
+    },
+    {
+        "product_id": "FSH-00018",
+        "nama_produk": "Pashmina Silk-348",
+        "harga": 58000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00019",
+        "nama_produk": "Rok Plisket-897",
+        "harga": 51000,
+        "rating": 5.0
+    },
+    {
+        "product_id": "FSH-00020",
+        "nama_produk": "Pashmina Silk-103",
+        "harga": 35000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00021",
+        "nama_produk": "Kulot Highwaist-936",
+        "harga": 61000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00022",
+        "nama_produk": "Cardigan Rajut-889",
+        "harga": 33000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00023",
+        "nama_produk": "Blouse Korea-491",
+        "harga": 39000,
+        "rating": 4.4
+    },
+    {
+        "product_id": "FSH-00024",
+        "nama_produk": "Blouse Korea-833",
+        "harga": 90000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00025",
+        "nama_produk": "Kulot Highwaist-942",
+        "harga": 17000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00026",
+        "nama_produk": "Rok Plisket-247",
+        "harga": 69000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00027",
+        "nama_produk": "Gamis Brokat-426",
+        "harga": 29000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00028",
+        "nama_produk": "Pashmina Silk-214",
+        "harga": 67000,
+        "rating": 4.6
+    },
+    {
+        "product_id": "FSH-00029",
+        "nama_produk": "Blouse Korea-124",
+        "harga": 95000,
+        "rating": 4.0
+    },
+    {
+        "product_id": "FSH-00030",
+        "nama_produk": "Tunik Rayon-120",
+        "harga": 12000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00031",
+        "nama_produk": "Blouse Korea-598",
+        "harga": 75000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00032",
+        "nama_produk": "Rok Plisket-818",
+        "harga": 70000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00033",
+        "nama_produk": "Pashmina Silk-630",
+        "harga": 39000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00034",
+        "nama_produk": "Blouse Korea-273",
+        "harga": 73000,
+        "rating": 4.6
+    },
+    {
+        "product_id": "FSH-00035",
+        "nama_produk": "Hijab Bella-444",
+        "harga": 96000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00036",
+        "nama_produk": "Kulot Highwaist-185",
+        "harga": 63000,
+        "rating": 4.1
+    },
+    {
+        "product_id": "FSH-00037",
+        "nama_produk": "Tunik Rayon-130",
+        "harga": 39000,
+        "rating": 4.1
+    },
+    {
+        "product_id": "FSH-00038",
+        "nama_produk": "Gamis Brokat-663",
+        "harga": 67000,
+        "rating": 4.1
+    },
+    {
+        "product_id": "FSH-00039",
+        "nama_produk": "Tunik Rayon-508",
+        "harga": 54000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00040",
+        "nama_produk": "Hijab Bella-888",
+        "harga": 98000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00041",
+        "nama_produk": "Hijab Bella-822",
+        "harga": 69000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00042",
+        "nama_produk": "Pashmina Silk-687",
+        "harga": 54000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00043",
+        "nama_produk": "Hijab Bella-367",
+        "harga": 72000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00044",
+        "nama_produk": "Hijab Bella-354",
+        "harga": 99000,
+        "rating": 4.4
+    },
+    {
+        "product_id": "FSH-00045",
+        "nama_produk": "Rok Plisket-863",
+        "harga": 58000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00046",
+        "nama_produk": "Tunik Rayon-709",
+        "harga": 47000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00047",
+        "nama_produk": "Gamis Brokat-105",
+        "harga": 42000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00048",
+        "nama_produk": "Gamis Brokat-106",
+        "harga": 28000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00049",
+        "nama_produk": "Kulot Highwaist-443",
+        "harga": 14000,
+        "rating": 4.4
+    },
+    {
+        "product_id": "FSH-00050",
+        "nama_produk": "Cardigan Rajut-189",
+        "harga": 94000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00051",
+        "nama_produk": "Hijab Bella-284",
+        "harga": 58000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00052",
+        "nama_produk": "Hijab Bella-114",
+        "harga": 48000,
+        "rating": 4.1
+    },
+    {
+        "product_id": "FSH-00053",
+        "nama_produk": "Pashmina Silk-185",
+        "harga": 67000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00054",
+        "nama_produk": "Pashmina Silk-792",
+        "harga": 81000,
+        "rating": 5.0
+    },
+    {
+        "product_id": "FSH-00055",
+        "nama_produk": "Gamis Brokat-196",
+        "harga": 37000,
+        "rating": 4.0
+    },
+    {
+        "product_id": "FSH-00056",
+        "nama_produk": "Hijab Bella-847",
+        "harga": 36000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00057",
+        "nama_produk": "Blouse Korea-186",
+        "harga": 24000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00058",
+        "nama_produk": "Kulot Highwaist-391",
+        "harga": 10000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00059",
+        "nama_produk": "Gamis Brokat-464",
+        "harga": 20000,
+        "rating": 4.6
+    },
+    {
+        "product_id": "FSH-00060",
+        "nama_produk": "Kulot Highwaist-826",
+        "harga": 72000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00061",
+        "nama_produk": "Pashmina Silk-280",
+        "harga": 22000,
+        "rating": 4.6
+    },
+    {
+        "product_id": "FSH-00062",
+        "nama_produk": "Rok Plisket-247",
+        "harga": 95000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00063",
+        "nama_produk": "Cardigan Rajut-832",
+        "harga": 46000,
+        "rating": 4.0
+    },
+    {
+        "product_id": "FSH-00064",
+        "nama_produk": "Kulot Highwaist-134",
+        "harga": 80000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00065",
+        "nama_produk": "Pashmina Silk-870",
+        "harga": 63000,
+        "rating": 4.6
+    },
+    {
+        "product_id": "FSH-00066",
+        "nama_produk": "Pashmina Silk-575",
+        "harga": 69000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00067",
+        "nama_produk": "Gamis Brokat-165",
+        "harga": 31000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00068",
+        "nama_produk": "Blouse Korea-714",
+        "harga": 27000,
+        "rating": 5.0
+    },
+    {
+        "product_id": "FSH-00069",
+        "nama_produk": "Kulot Highwaist-212",
+        "harga": 33000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00070",
+        "nama_produk": "Pashmina Silk-997",
+        "harga": 93000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00071",
+        "nama_produk": "Cardigan Rajut-547",
+        "harga": 56000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00072",
+        "nama_produk": "Gamis Brokat-930",
+        "harga": 98000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00073",
+        "nama_produk": "Blouse Korea-841",
+        "harga": 80000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00074",
+        "nama_produk": "Hijab Bella-165",
+        "harga": 42000,
+        "rating": 4.4
+    },
+    {
+        "product_id": "FSH-00075",
+        "nama_produk": "Gamis Brokat-736",
+        "harga": 59000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00076",
+        "nama_produk": "Kulot Highwaist-984",
+        "harga": 80000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00077",
+        "nama_produk": "Cardigan Rajut-323",
+        "harga": 26000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00078",
+        "nama_produk": "Pashmina Silk-474",
+        "harga": 79000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00079",
+        "nama_produk": "Cardigan Rajut-615",
+        "harga": 76000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00080",
+        "nama_produk": "Pashmina Silk-792",
+        "harga": 30000,
+        "rating": 5.0
+    },
+    {
+        "product_id": "FSH-00081",
+        "nama_produk": "Cardigan Rajut-525",
+        "harga": 45000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00082",
+        "nama_produk": "Blouse Korea-604",
+        "harga": 60000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00083",
+        "nama_produk": "Cardigan Rajut-379",
+        "harga": 74000,
+        "rating": 4.1
+    },
+    {
+        "product_id": "FSH-00084",
+        "nama_produk": "Rok Plisket-833",
+        "harga": 11000,
+        "rating": 4.7
+    },
+    {
+        "product_id": "FSH-00085",
+        "nama_produk": "Rok Plisket-606",
+        "harga": 78000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00086",
+        "nama_produk": "Kulot Highwaist-863",
+        "harga": 32000,
+        "rating": 4.6
+    },
+    {
+        "product_id": "FSH-00087",
+        "nama_produk": "Tunik Rayon-513",
+        "harga": 63000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00088",
+        "nama_produk": "Tunik Rayon-213",
+        "harga": 99000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00089",
+        "nama_produk": "Blouse Korea-572",
+        "harga": 75000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00090",
+        "nama_produk": "Tunik Rayon-752",
+        "harga": 98000,
+        "rating": 4.1
+    },
+    {
+        "product_id": "FSH-00091",
+        "nama_produk": "Pashmina Silk-518",
+        "harga": 98000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00092",
+        "nama_produk": "Cardigan Rajut-272",
+        "harga": 31000,
+        "rating": 4.9
+    },
+    {
+        "product_id": "FSH-00093",
+        "nama_produk": "Pashmina Silk-861",
+        "harga": 28000,
+        "rating": 4.4
+    },
+    {
+        "product_id": "FSH-00094",
+        "nama_produk": "Blouse Korea-282",
+        "harga": 93000,
+        "rating": 4.8
+    },
+    {
+        "product_id": "FSH-00095",
+        "nama_produk": "Rok Plisket-629",
+        "harga": 5000,
+        "rating": 4.2
+    },
+    {
+        "product_id": "FSH-00096",
+        "nama_produk": "Cardigan Rajut-581",
+        "harga": 49000,
+        "rating": 4.5
+    },
+    {
+        "product_id": "FSH-00097",
+        "nama_produk": "Hijab Bella-683",
+        "harga": 45000,
+        "rating": 4.3
+    },
+    {
+        "product_id": "FSH-00098",
+        "nama_produk": "Pashmina Silk-161",
+        "harga": 29000,
+        "rating": 4.1
+    },
+    {
+        "product_id": "FSH-00099",
+        "nama_produk": "Pashmina Silk-936",
+        "harga": 98000,
+        "rating": 4.1
+    }
+]

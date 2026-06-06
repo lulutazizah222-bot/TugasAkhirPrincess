@@ -1,0 +1,14 @@
+import random
+print("===  GAME TEBAK ANGKA ===")
+angka_rahasia = random.randint(1, 100)
+maks_tebakan = 7 
+jumlah_tebakan = 0 
+while jumlah_tebakan < maks_tebakan:
+    try:
+        tebakan =  int(input(f"Tebakan ke-{jumlah_tebakan + 1}: Masukkan angka (1-100):"))
+    except ValueError:
+        print("input harus berupa angka! coba lagi.")
+        continue
+    jumlah_tebakan += 1
+    if tebakan == angka_rahasia:
+        print(f"")

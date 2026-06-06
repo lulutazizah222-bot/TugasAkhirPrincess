@@ -1,0 +1,15 @@
+nama_depan = "khoirul"
+nama_belakang = "anam"
+nama_lengkap  = nama_depan + " " + nama_belakang
+print(nama_lengkap) # khooirul anam
+
+kata = "wopyou"
+print(kata * 5)     #wopyouwopyouwopyouwopyouwopyouwopyou
+
+garis = "="
+print(garis * 30) #==============================
+
+kalimat = "Python adalah bahasa pemograman"
+print ("Python" in kalimat) #True
+print ("java" in kalimat) #False
+print ("adalah" in kalimat) #True
